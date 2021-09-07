@@ -1,5 +1,5 @@
 # GAFM---Guide-Affine-Covariant-Feature-Matching
-A Novel Affine Covariant Feature Point Matching Method  (under review)
+A Novel Affine Covariant Feature Point Matching Method  (IEEE TGRS 2021)
 
 
 # Datasets
